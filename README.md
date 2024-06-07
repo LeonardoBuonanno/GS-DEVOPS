@@ -1,8 +1,8 @@
 # GS-Devops
 
-#CRUD de login em .NET
+# CRUD de login em .NET
 
-##Descrição
+## Descrição
 Este projeto implementa um CRUD de login utilizando .NET, Docker e Docker Compose. A aplicação é containerizada para facilitar a implementação e escalabilidade.
 
 ## Requisitos
